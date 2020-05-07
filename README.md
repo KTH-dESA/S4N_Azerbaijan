@@ -2,7 +2,7 @@
 This repository contains the OSeMOSYS model of the Azerbaijani power sector that has been developed in the H2020 project SIM4NEXUS.
 
 ## Needed Installations
-- Solver: GLPK, Instructions: http://www.osemosys.org/uploads/1/8/5/0/18504136/glpk_installation_guide_for_windows10_-_201702.pdf
+- Solver: GLPK, [Installation instructions] (http://www.osemosys.org/uploads/1/8/5/0/18504136/glpk_installation_guide_for_windows10_-_201702.pdf)
 
 ## Running OSeMOSYS Azerbaijan
 Detailed instructions on how to run an OSeMOSYS mode can be found here: https://osemosys.readthedocs.io/en/latest/manual/Create%20a%20model%20in%20OSeMOSYS.html
